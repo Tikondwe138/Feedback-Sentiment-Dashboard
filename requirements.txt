@@ -1,0 +1,9 @@
+kivy
+kivymd
+pandas
+matplotlib
+plotly
+textblob
+scikit-learn
+nltk
+spacy  # optional for extended NLP tasks
